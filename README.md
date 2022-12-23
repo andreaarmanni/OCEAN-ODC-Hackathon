@@ -12,7 +12,7 @@ In the Ocean Protocol <> Gitcoin ODC Hackathon, contestants are incentivised to 
 ### 0.1 Outline of this README
 This readme describes 3 different ways that participants can use to get free bonus points during the hackathon:
 
-1. Publish your algorithms as ERC721 using the Ocean Market frontend
+1. Publish your algorithms as ERC721 using the [Ocean Market](https://market.oceanprotocol.com/publish/1) frontend
 2. Publish your algorithms as [ERC725Y](https://github.com/ERC725Alliance/erc725/blob/main/docs/ERC-725.md) using Ocean.py
 3. Publish your algorithms as [ERC725Y](https://github.com/ERC725Alliance/erc725/blob/main/docs/ERC-725.md) using Ocean.js
 
