@@ -1,5 +1,5 @@
 # Gitcoin Open Data Hackathon using Ocean Protocol
-In the Ocean Protocol <> Gitcoin ODC Hackathon, contestants are incentivised to use Ocean's decentralized technology to find insightful anti-Sybil algorithms and to package anti-Sybil algorithms into composable legos.
+In the Ocean Protocol <> Gitcoin ODC Hackathon, contestants are incentivised to use Ocean's technology to find insightful anti-Sybil algorithms and to package anti-Sybil algorithms into composable legos with a fully decentrealised approach.
 
 
 ## 0. Key Details
