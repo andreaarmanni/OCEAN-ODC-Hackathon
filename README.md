@@ -7,7 +7,7 @@ In the Ocean Protocol <> Gitcoin ODC Hackathon, contestants are incentivised to 
 - Kickoff: Jan 5th, 2023
 - Submission deadline: Tuesday Jan 31st, 2023 at 23:59 UTC
 - Total Prize pool: $40,000 in bounties
-- Winners announced: within one week
+- Winners announced: ____NEED MORE DETAILS ON WHEN AND HOW____
 
 ### 0.1 Outline of this README
 This readme describes 3 different ways that participants can use to get free bonus points during the hackathon:
@@ -40,9 +40,7 @@ To host your data assets on Arweave you have two options, A and B. Please pick o
 
 If you're not sure which option to pick, we recommend Option A because once you get AR, the rest is less error-prone.
 
-Once the above is completed, head over to [Ocean Market](https://market.oceanprotocol.com/publish/1) to get started with publishing.
-
-If you need more information feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh) or visit our [docs](https://docs.oceanprotocol.com/using-ocean-market/marketplace-publish-data-asset).
+Once the above is completed, head over to [Ocean Market](https://market.oceanprotocol.com/publish/1) to get started with publishing and if you need more information feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh) or visit our [docs](https://docs.oceanprotocol.com/using-ocean-market/marketplace-publish-data-asset).
 
 
 ## 2. Publish using Ocean.py
