@@ -35,7 +35,7 @@ The ERC725y feature enables the NFT owner to input and update information in a k
 
 ### 2.1 Via Ocean.py
 
-Before getting started, ensure that you've already [installed Ocean](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/install.md) and [set it up remotely](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/setup-remote.md)
+Before getting started, ensure that you've already [installed Ocean.py](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/install.md) and [set it up remotely](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/setup-remote.md)
 
 
 #### 2.1.1 Publish data NFT
@@ -75,6 +75,9 @@ If you need more information about Ocean ERC725y feel free to ask for support in
 
 
 ### 2.2 Via Ocean.Js
+
+Before getting started, ensure that you've already [installed Ocean.js]() and [set it up remotely]()
+
 Using Ocean Data NFTs as [ERC725Y](https://github.com/ERC725Alliance/erc725/blob/main/docs/ERC-725.md) via Ocean.js can be helpful for dApp developers, particularly if you have prior experience with javascript.
 
 The process involves creating a Data NFT (which represents the base-IP on-chain) and a datatoken (which will be used to purchase the dataset). Access the full [README](https://github.com/oceanprotocol/ocean.js/blob/main/CodeExamples.md#8-using-erc725-key-value-store) to get started.
