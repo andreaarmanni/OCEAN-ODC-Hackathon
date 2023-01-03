@@ -20,16 +20,12 @@ This readme describes 3 different ways that participants can use to get free bon
 Ocean Market provides a convenient interface for individuals and organizations to publish their data. Data assets can be datasets, algorithms,images, location information, audio, video, sales data, or combinations of all!
 
 To publish on the Ocean Marketplace, you must first get MATIC or ETH to pay for gas fees, and host your assets on a decentralized storage like Arweave.
-
-### Arweave preparation
-To host your data assets on Arweave you have two options, A and B. Please pick one and do the "prepare by" step.
+To host your data assets on Arweave you have two options, A and B. 
 
 **Option A: Webapp, using [arweave.app](https://www.ardrive.io)**
 For more info, access the [Ocean Docs](https://docs.oceanprotocol.com/using-ocean-market/asset-hosting#arweave) 
 
-**Option B: In code, using [pybundlr library](https://github.com/oceanprotocol/pybundlr)**
-
-If you're not sure which option to pick, we recommend Option A because once you get AR, the rest is less error-prone.
+**Option B: In code, using [pybundlr library](https://github.com/oceanprotocol/pybundlr)** 
 
 Once the above is completed, head over to [Ocean Market](https://market.oceanprotocol.com/publish/1) to get started with publishing and if you need more information feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh) or visit our [docs](https://docs.oceanprotocol.com/using-ocean-market/marketplace-publish-data-asset).
 
