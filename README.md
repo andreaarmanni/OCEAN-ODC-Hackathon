@@ -7,7 +7,6 @@ In the Ocean Protocol <> Gitcoin ODC Hackathon, contestants are incentivised to 
 - Kickoff: Jan 5th, 2023
 - Submission deadline: Tuesday Jan 31st, 2023 at 23:59 UTC
 - Total Prize pool: $40,000 in bounties
-- Winners announced: ____NEED MORE DETAILS ON WHEN AND HOW____
 
 ### 0.1 Outline of this README
 This readme describes 3 different ways that participants can use to get free bonus points during the hackathon:
@@ -26,8 +25,9 @@ To publish on the Ocean Marketplace, you must first get MATIC or ETH to pay for 
 To host your data assets on Arweave you have two options, A and B. Please pick one and do the "prepare by" step.
 
 **Option A: Webapp, using [arweave.app](https://www.ardrive.io)**
+For more info, access the [Ocean Docs](https://docs.oceanprotocol.com/using-ocean-market/asset-hosting#arweave) 
 
-**Option B: In code, using [pybundlr library](https://github.com/oceanprotocol/pybundlr) **
+**Option B: In code, using [pybundlr library](https://github.com/oceanprotocol/pybundlr)**
  - Prepare by:
    - in console, install pybundlr: `pip install pybundlr`
    - in console, install [Bundlr CLI](https://docs.bundlr.network/docs/about/introduction): `npm install -g @bundlr-network/client`
