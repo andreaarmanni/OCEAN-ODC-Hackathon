@@ -34,7 +34,7 @@ If you're not sure which option to pick, we recommend Option A because once you 
 Once the above is completed, head over to [Ocean Market](https://market.oceanprotocol.com/publish/1) to get started with publishing and if you need more information feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh) or visit our [docs](https://docs.oceanprotocol.com/using-ocean-market/marketplace-publish-data-asset).
 
 
-## 2. Publish using Ocean.py
+## 2. Use Ocean Data NFTs via Ocean.py
 The ERC725y feature enables the NFT owner to input and update information in a key-value store. These values can be viewed externally by anyone and are highly useful building blocks for various Sybil protection approaches. Ocean has a first-class implementation of it, deployed on many networks, and with drivers. 
 
 Before getting started, ensure that you've already (a) [installed Ocean](install.md), and (b) [set up locally](setup-local.md) or [remotely](setup-remote.md).
@@ -76,7 +76,7 @@ This way, we can also encrypt the data. Under the hood, it uses [ERC725](https:/
 If you need more information about Ocean ERC725y feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh). Alternatively, you can visit the full [README](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/key-value-flow.md) or our [docs](https://docs.oceanprotocol.com/core-concepts/datanft-and-datatoken#implementation-in-ocean-protocol).
 
 
-## 3. Publish using Ocean.Js
+## 3. Use Ocean Data NFTs via Ocean.Js
 Publishing your algorithms as [ERC725Y](https://github.com/ERC725Alliance/erc725/blob/main/docs/ERC-725.md) using Ocean.js can be helpful for dApp developers, particularly if you have prior experience with javascript.
 
 The process involves creating a Data NFT (which represents the base-IP on-chain) and a datatoken (which will be used to purchase the dataset). Access the full [README](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/key-value-flow.md) to get started.
