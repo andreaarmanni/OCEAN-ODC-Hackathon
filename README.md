@@ -21,10 +21,10 @@ Ocean Market provides a convenient interface for individuals and organizations t
 To publish on the Ocean Marketplace, you must first get MATIC or ETH to pay for gas fees, and host your assets on a decentralized storage like Arweave.
 To host your data assets on Arweave you have two options, A and B. 
 
-**Option A: Webapp, using [arweave.app](https://www.ardrive.io)**
+**Option A:** Webapp, using [arweave.app](https://www.ardrive.io)
 For more info, access the [Ocean Docs](https://docs.oceanprotocol.com/using-ocean-market/asset-hosting#arweave) 
 
-**Option B: In code, using [pybundlr library](https://github.com/oceanprotocol/pybundlr)** 
+**Option B:** In code, using [pybundlr library](https://github.com/oceanprotocol/pybundlr)
 
 Once the above is completed, take the transaction ID and head over to [Ocean Market](https://market.oceanprotocol.com/publish/1) to get started with publishing. If you need more information feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh) or visit our [docs](https://docs.oceanprotocol.com/using-ocean-market/marketplace-publish-data-asset).
 
