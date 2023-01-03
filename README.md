@@ -9,11 +9,10 @@ In the Ocean Protocol <> Gitcoin ODC Hackathon, contestants are incentivised to 
 - Total Prize pool: $40,000 in bounties
 
 ### 0.1 Outline of this README
-This readme describes 3 different ways that participants can use to get free bonus points during the hackathon:
+This readme describes 2 different ways that participants can use to get free bonus points during the hackathon:
 
 1. Publish your algorithms as ERC721 using the [Ocean Market](https://market.oceanprotocol.com/publish/1) frontend
-2. Use Ocean [Data NFTs](https://docs.oceanprotocol.com/core-concepts/datanft-and-datatoken#what-is-a-data-nft) as [ERC725Y](https://github.com/ERC725Alliance/erc725/blob/main/docs/ERC-725.md) via [Ocean.py](https://github.com/oceanprotocol/ocean.py)
-3. Use Ocean [Data NFTs](https://docs.oceanprotocol.com/core-concepts/datanft-and-datatoken#what-is-a-data-nft) as [ERC725Y](https://github.com/ERC725Alliance/erc725/blob/main/docs/ERC-725.md) via [Ocean.js](https://github.com/oceanprotocol/ocean.js)
+2. Use Ocean [Data NFTs](https://docs.oceanprotocol.com/core-concepts/datanft-and-datatoken#what-is-a-data-nft) as [ERC725Y](https://github.com/ERC725Alliance/erc725/blob/main/docs/ERC-725.md) via [Ocean.py](https://github.com/oceanprotocol/ocean.py) or [Ocean.js](https://github.com/oceanprotocol/ocean.js)
 
 ## 1. Use Ocean Market frontend
 
