@@ -74,7 +74,7 @@ This way, we can also encrypt the data. Under the hood, it uses [ERC725](https:/
 If you need more information about Ocean ERC725y feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh). Alternatively, you can visit the full [README](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/key-value-flow.md) or our [docs](https://docs.oceanprotocol.com/core-concepts/datanft-and-datatoken#implementation-in-ocean-protocol).
 
 
-### 2.2.1 Via Ocean.Js
+### 2.2 Via Ocean.Js
 Using Ocean Data NFTs as [ERC725Y](https://github.com/ERC725Alliance/erc725/blob/main/docs/ERC-725.md) via Ocean.js can be helpful for dApp developers, particularly if you have prior experience with javascript.
 
 The process involves creating a Data NFT (which represents the base-IP on-chain) and a datatoken (which will be used to purchase the dataset). Access the full [README](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/key-value-flow.md) to get started.
