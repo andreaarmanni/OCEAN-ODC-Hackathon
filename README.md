@@ -24,10 +24,9 @@ To host your data assets on Arweave you have two options, A and B.
 
 **Option A: Webapp, using [arweave.app](https://www.ardrive.io)**
 For more info, access the [Ocean Docs](https://docs.oceanprotocol.com/using-ocean-market/asset-hosting#arweave) 
-
 **Option B: In code, using [pybundlr library](https://github.com/oceanprotocol/pybundlr)** 
 
-Once the above is completed, head over to [Ocean Market](https://market.oceanprotocol.com/publish/1) to get started with publishing and if you need more information feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh) or visit our [docs](https://docs.oceanprotocol.com/using-ocean-market/marketplace-publish-data-asset).
+Once the above is completed, take the transaction ID and head over to [Ocean Market](https://market.oceanprotocol.com/publish/1) to get started with publishing. If you need more information feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh) or visit our [docs](https://docs.oceanprotocol.com/using-ocean-market/marketplace-publish-data-asset).
 
 
 ## 2. Use Ocean Data NFTs via Ocean.py
