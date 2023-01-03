@@ -33,7 +33,7 @@ Once the above is completed, take the transaction ID and head over to [Ocean Mar
 ## 2. Use Ocean Data NFTs via Ocean.py
 The ERC725y feature enables the NFT owner to input and update information in a key-value store. These values can be viewed externally by anyone and are highly useful building blocks for various Sybil protection approaches. Ocean has a first-class implementation of it, deployed on many networks, and with drivers. 
 
-Before getting started, ensure that you've already (a) [installed Ocean](install.md), and (b) [set up locally](setup-local.md) or [remotely](setup-remote.md).
+Before getting started, ensure that you've already installed Ocean and [set it up remotely](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/setup-remote.md)
 
 
 ### 2.1 Publish data NFT
