@@ -30,13 +30,16 @@ For more info, access the [Ocean Docs](https://docs.oceanprotocol.com/using-ocea
 Once the above is completed, take the transaction ID and head over to [Ocean Market](https://market.oceanprotocol.com/publish/1) to get started with publishing. If you need more information feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh) or visit our [docs](https://docs.oceanprotocol.com/using-ocean-market/marketplace-publish-data-asset).
 
 
-## 2. Use Ocean Data NFTs via Ocean.py
+## 2. Use Ocean Data NFTs as ERC725Y
+
 The ERC725y feature enables the NFT owner to input and update information in a key-value store. These values can be viewed externally by anyone and are highly useful building blocks for various Sybil protection approaches. Ocean has a first-class implementation of it, deployed on many networks, and with drivers. 
+
+### 2.1 Via Ocean.py
 
 Before getting started, ensure that you've already [installed Ocean](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/install.md) and [set it up remotely](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/setup-remote.md)
 
 
-### 2.1 Publish data NFT
+#### 2.1.1 Publish data NFT
 
 In Python console:
 ```python
@@ -44,7 +47,7 @@ from ocean_lib.models.arguments import DataNFTArguments
 data_nft = ocean.data_nft_factory.create(DataNFTArguments('NFT1', 'NFT1'), alice)
 ```
 
-### 2.2 Add key-value pair to data NFT
+#### 2.1.2 Add key-value pair to data NFT
 
 ```python
 # Key-value pair
@@ -57,7 +60,7 @@ key_hash = Web3.keccak(text=key)  # Contract/ERC725 requires keccak256 hash
 data_nft.setNewData(key_hash, value, {"from": alice})
 ```
 
-### 2.3 Retrieve value from data NFT
+#### 2.1.3 Retrieve value from data NFT
 
 ```python
 value2_hex = data_nft.getData(key_hash)
@@ -72,8 +75,8 @@ This way, we can also encrypt the data. Under the hood, it uses [ERC725](https:/
 If you need more information about Ocean ERC725y feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh). Alternatively, you can visit the full [README](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/key-value-flow.md) or our [docs](https://docs.oceanprotocol.com/core-concepts/datanft-and-datatoken#implementation-in-ocean-protocol).
 
 
-## 3. Use Ocean Data NFTs via Ocean.Js
-Publishing your algorithms as [ERC725Y](https://github.com/ERC725Alliance/erc725/blob/main/docs/ERC-725.md) using Ocean.js can be helpful for dApp developers, particularly if you have prior experience with javascript.
+### 2.2.1 Via Ocean.py
+Using Ocean Data NFTs as [ERC725Y](https://github.com/ERC725Alliance/erc725/blob/main/docs/ERC-725.md) via Ocean.js can be helpful for dApp developers, particularly if you have prior experience with javascript.
 
 The process involves creating a Data NFT (which represents the base-IP on-chain) and a datatoken (which will be used to purchase the dataset). Access the full [README](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/key-value-flow.md) to get started.
 
