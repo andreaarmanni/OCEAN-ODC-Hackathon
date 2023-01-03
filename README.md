@@ -31,7 +31,8 @@ Once the above is completed, take the transaction ID and head over to [Ocean Mar
 
 ## 2. Use Ocean Data NFTs as ERC725Y
 
-The ERC725y feature enables the NFT owner to input and update information in a key-value store. These values can be viewed externally by anyone and are highly useful building blocks for various Sybil protection approaches. Ocean has a first-class implementation of it, deployed on many networks, and with drivers. 
+The ERC725y feature enables the NFT owner to input and update information in a key-value store. These values can be viewed externally by anyone and are highly useful building blocks for various Sybil protection approaches. As an example, users can use Ocean data NFTs to [Login with Web3](https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/profile-nfts-flow.md) and allow a dApp to not only connect to the user's wallet, but also access profile data that the user has privately shared to it. Interestingly, these Ocean data NFTs are also essentially [Soulbound Tokens](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4105763_code1186331.pdf?abstractid=4105763&mirid=1) as well. 
+
 
 ### 2.1 Via Ocean.py
 
@@ -76,7 +77,7 @@ If you need more information about Ocean ERC725y feel free to ask for support in
 
 ### 2.2 Via Ocean.Js
 
-Before getting started, ensure that you've already [installed Ocean.js]() and [set it up remotely]()
+Before getting started, ensure that you've already [installed Ocean.js](https://github.com/oceanprotocol/ocean.js#-installation--usage).
 
 Using Ocean Data NFTs as [ERC725Y](https://github.com/ERC725Alliance/erc725/blob/main/docs/ERC-725.md) via Ocean.js can be helpful for dApp developers, particularly if you have prior experience with javascript.
 
