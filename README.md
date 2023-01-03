@@ -28,10 +28,6 @@ To host your data assets on Arweave you have two options, A and B. Please pick o
 For more info, access the [Ocean Docs](https://docs.oceanprotocol.com/using-ocean-market/asset-hosting#arweave) 
 
 **Option B: In code, using [pybundlr library](https://github.com/oceanprotocol/pybundlr)**
- - Prepare by:
-   - in console, install pybundlr: `pip install pybundlr`
-   - in console, install [Bundlr CLI](https://docs.bundlr.network/docs/about/introduction): `npm install -g @bundlr-network/client`
-   - get one of: [MATIC](https://polygon.technology/matic-token/), [ETH](https://ethereum.org/en/get-eth/), or AR (see "get AR via" above)
 
 If you're not sure which option to pick, we recommend Option A because once you get AR, the rest is less error-prone.
 
