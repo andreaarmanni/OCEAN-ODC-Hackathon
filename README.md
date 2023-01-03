@@ -18,21 +18,16 @@ This readme describes 3 different ways that participants can use to get free bon
 
 ## 1. Use Ocean Market frontend
 
-Ocean Market provides a convenient interface for individuals and organizations to publish their data. Datasets can be datasets, algorithms,images, location information, audio, video, sales data, or combinations of all!
+Ocean Market provides a convenient interface for individuals and organizations to publish their data. Data assets can be datasets, algorithms,images, location information, audio, video, sales data, or combinations of all!
 
 To publish on the Ocean Marketplace, you must first get MATIC or ETH to pay for gas fees, and host your assets on a decentralized storage like Arweave.
 
 ### Arweave preparation
 To host your data assets on Arweave you have two options, A and B. Please pick one and do the "prepare by" step.
 
-**Option A: Webapp, using [ardrive.io](https://www.ardrive.io)**
- - Pros: simple webapp
- - Cons: need AR to pay for storage.
- - Prepare by: get AR via [a faucet](https://faucet.arweave.net/) or [buying some](https://www.google.com/search?q=buy+arweave+tokens)
+**Option A: Webapp, using [arweave.app](https://www.ardrive.io)**
 
- **Option B: In code, using pybundlr library**
- - Pros: pay for storage with MATIC, ETH, AR, or [other](https://docs.bundlr.network/docs/currencies). (But not fake MATIC)
- - Cons: bundlr CLI installation is finicky, since it needs "`npm install`" globally on your system (`-g` flag)
+**Option B: In code, using [pybundlr library](https://github.com/oceanprotocol/pybundlr) **
  - Prepare by:
    - in console, install pybundlr: `pip install pybundlr`
    - in console, install [Bundlr CLI](https://docs.bundlr.network/docs/about/introduction): `npm install -g @bundlr-network/client`
